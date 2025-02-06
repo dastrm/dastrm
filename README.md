@@ -5,4 +5,4 @@
 
 I like solving mathematical problems using computers.
 
-The visualization above contains the Kelvin–Helmholtz instability computed in [Trixi](https://github.com/trixi-framework/Trixi.jl).
+The visualization above contains the Kelvin-Helmholtz instability computed in [Trixi](https://github.com/trixi-framework/Trixi.jl).
